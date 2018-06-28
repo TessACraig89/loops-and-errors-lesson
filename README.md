@@ -272,6 +272,8 @@ Cloning a repository means that you download the whole code of the repository on
 The command `git push origin master` will push changes from the local master branch to the remote master branch.
 ```
 * What would `git pull upstream master` do?
-
+```
+The command 'git pull upstream master' will pull the branches and their respective commits from the upstream repository. This method will retain the commit history without modification.
+```
 <br>
 <hr>
