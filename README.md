@@ -228,6 +228,13 @@ for (i = 7; i <= 635; i++) {
 
 Test the loop thoroughly.
 
+```
+let start = 0;
+const limit = 100;
+for (i = start; i <= limit; i++) {
+  console.log(i);
+};
+```
 # 4
 * Think of something in real life, or nature, or wherever / whenever that displays **looping** behavior.
 
