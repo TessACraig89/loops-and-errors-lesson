@@ -257,9 +257,12 @@ Git is a revision control system, a tool to manage your source code history, whi
 ```
 * What is a Github repo
 ```
-A directory or storage space on Github where your project lives. 
+A directory or storage space on Github where your project lives.
 ```
 * forking a repo on Github
+```
+Forking a repository means making a copy of the repo, this allows you to freely experiment with changes without affecting the original project.
+```
 * cloning a repo from Github
 * What does `git push origin master` do?
 * What would `git pull upstream master` do?
