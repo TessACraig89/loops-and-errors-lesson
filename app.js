@@ -24,3 +24,14 @@ console.log("You wanna be where you can see,");
 console.log("our troubles are all the same");
 console.log("You wanna be where everybody knows");
 console.log("Your name.");
+
+// BOOLEAN EXPRESSIONS
+
+999 > 999
+999 == 999
+999 != 999
+-5 >= -4
+100 <= -100
+20 + 5 < 5
+81 / 9 == 9
+9 != 8 + 1
