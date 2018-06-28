@@ -207,6 +207,11 @@ while (i <= 1000) {
 # 1
 * Write a **for loop** that counts from 0 to 100 and console.logs each number.
 
+```
+for (i = 0; i <= 100; i++) {
+  console.log(i);
+};
+```
 # 2
 * Write another **for loop** that counts from 7 to 635 (no more, no less!), and console.logs each number.
 
