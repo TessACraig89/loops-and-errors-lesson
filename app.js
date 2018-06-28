@@ -34,8 +34,9 @@ console.log("Your name.");
 999 != 999
 // false
 -5 >= -4
-//false 
+//false
 100 <= -100
+// false
 20 + 5 < 5
 81 / 9 == 9
 9 != 8 + 1
