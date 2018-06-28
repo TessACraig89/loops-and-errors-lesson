@@ -44,5 +44,7 @@ console.log("Your name.");
 9 != 8 + 1
 // false
 
-// Assignment operator vs Equality operator
-// What is the difference between the assignment operator = and the equality operator ==?
+/* Assignment operator vs Equality operator
+What is the difference between the assignment operator = and the equality operator ==?
+
+The assigment operator is used to assign a value to a variable, while the equality operator is used to check whether or not two values, variables, or equations are equal in value
