@@ -37,6 +37,7 @@ console.log("Your name.");
 //false
 100 <= -100
 // false
-20 + 5 < 5
+20 + 5 <
+// false
 81 / 9 == 9
 9 != 8 + 1
