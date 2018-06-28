@@ -253,9 +253,12 @@ If you want more to do, tomorrow we will be getting into git and Github. Use you
 
 * The difference between git and github
 ```
-"Git is a revision control system, a tool to manage your source code history, while github is a hosting service for Git repositories."
+Git is a revision control system, a tool to manage your source code history, while github is a hosting service for Git repositories.
 ```
 * What is a Github repo
+```
+A directory or storage space on Github where your project lives. 
+```
 * forking a repo on Github
 * cloning a repo from Github
 * What does `git push origin master` do?
