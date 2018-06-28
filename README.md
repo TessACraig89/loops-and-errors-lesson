@@ -146,7 +146,13 @@ Write a *while* loop that will log in the console
 1000 times. You can test it out with a smaller number first, such as 10, and when that works, use 1000.
 
 Make sure you do not run an infinite loop! If you do, close your Terminal. Oops!
-
+```
+let i = 0;
+while (i < 10) {
+  console.log("Ginger chocolate honey patties");
+  i++;
+};
+```
 
 ## 2
 
