@@ -268,6 +268,9 @@ Forking a repository means making a copy of the repo, this allows you to freely 
 Cloning a repository means that you download the whole code of the repository onto your local machine through the command line using the command "git clone".
 ```
 * What does `git push origin master` do?
+```
+The command `git push origin master` will push changes from the local master branch to the remote master branch.
+```
 * What would `git pull upstream master` do?
 
 <br>
