@@ -215,6 +215,9 @@ for (i = 0; i <= 100; i++) {
 # 2
 * Write another **for loop** that counts from 7 to 635 (no more, no less!), and console.logs each number.
 
+```
+```
+
 # 3
 * Declare a variable `let start = 0`
 * Declare a variable `const limit = 100`
