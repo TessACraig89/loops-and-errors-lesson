@@ -216,6 +216,9 @@ for (i = 0; i <= 100; i++) {
 * Write another **for loop** that counts from 7 to 635 (no more, no less!), and console.logs each number.
 
 ```
+for (i = 7; i <= 635; i++) {
+  console.log(i);
+};
 ```
 
 # 3
