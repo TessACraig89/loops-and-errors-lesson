@@ -264,6 +264,9 @@ A directory or storage space on Github where your project lives.
 Forking a repository means making a copy of the repo, this allows you to freely experiment with changes without affecting the original project.
 ```
 * cloning a repo from Github
+```
+Cloning a repository means that you download the whole code of the repository onto your local machine through the command line using the command "git clone".
+```
 * What does `git push origin master` do?
 * What would `git pull upstream master` do?
 
