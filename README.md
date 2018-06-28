@@ -252,6 +252,9 @@ Congrats! There is no need to submit this lab. You will be receiving homework fo
 If you want more to do, tomorrow we will be getting into git and Github. Use your **research skills** (Google-fu) to find out more about:
 
 * The difference between git and github
+```
+"Git is a revision control system, a tool to manage your source code history, while github is a hosting service for Git repositories."
+```
 * What is a Github repo
 * forking a repo on Github
 * cloning a repo from Github
