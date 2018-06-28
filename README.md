@@ -148,7 +148,7 @@ Write a *while* loop that will log in the console
 Make sure you do not run an infinite loop! If you do, close your Terminal. Oops!
 ```
 let i = 0;
-while (i < 10) {
+while (i < 1000) {
   console.log("Ginger chocolate honey patties");
   i++;
 };
