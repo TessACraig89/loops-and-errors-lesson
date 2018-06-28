@@ -43,3 +43,6 @@ console.log("Your name.");
 //true
 9 != 8 + 1
 // false
+
+// Assignment operator vs Equality operator
+// What is the difference between the assignment operator = and the equality operator ==?
