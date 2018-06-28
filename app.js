@@ -28,7 +28,9 @@ console.log("Your name.");
 // BOOLEAN EXPRESSIONS
 
 999 > 999
+// false
 999 == 999
+
 999 != 999
 -5 >= -4
 100 <= -100
