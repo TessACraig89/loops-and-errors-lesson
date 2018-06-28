@@ -188,6 +188,13 @@ Write another *while* loop that prints a message to the console _and_ interpolat
 >
 > => "Current loop number is: 3"
 
+```
+let i = 0;
+while (i <= 1000) {
+  console.log("Current loop number is: " + i);
+  i++;
+};
+```
 <br>
 
 **NOTE:** You should not need to see the 'correct answers' in this markdown for these loops. Either they work, or they don't. **Test** them thoroughly to make sure they are giving you the desired output.
