@@ -40,4 +40,5 @@ console.log("Your name.");
 20 + 5 <
 // false
 81 / 9 == 9
+//true
 9 != 8 + 1
