@@ -24,27 +24,3 @@ console.log("You wanna be where you can see,");
 console.log("our troubles are all the same");
 console.log("You wanna be where everybody knows");
 console.log("Your name.");
-
-// BOOLEAN EXPRESSIONS
-
-999 > 999
-// false
-999 == 999
-// true
-999 != 999
-// false
--5 >= -4
-//false
-100 <= -100
-// false
-20 + 5 <
-// false
-81 / 9 == 9
-//true
-9 != 8 + 1
-// false
-
-/* Assignment operator vs Equality operator
-What is the difference between the assignment operator = and the equality operator ==?
-
-The assigment operator is used to assign a value to a variable, while the equality operator is used to check whether or not two values, variables, or equations are equal in value

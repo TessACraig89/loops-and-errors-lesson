@@ -97,13 +97,21 @@ Make it so you do not get any more errors!
 By just looking at the following expressions, determine in your mind whether or not each will evaluate to **true** or **false**
 
 1. `999 > 999`
+=> false
 2. `999 == 999`
+=> true
 3. `999 != 999`
+=> false
 4. `-5 >= -4`
+=> false
 5. `100 <= -100`
+=> false
 6. `20 + 5 < 5`
+=> false
 7. `81 / 9 == 9`
+=> true
 8. `9 != 8 + 1`
+=> false
 
 <br>
 <hr>
@@ -117,6 +125,10 @@ the **assignment operator** `=`
 and the **equality operator** `==`
 
 ?
+
+```
+My Answer: The assigment operator is used to assign a value to a variable, while the equality operator is used to check whether or not two values, variables, or equations are equal in value.
+```
 
 <br>
 <hr>
